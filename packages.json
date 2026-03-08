@@ -2,7 +2,7 @@
   {
     "name": "doom",
     "version": "1.0.0",
-    "description": "ASCII raycaster FPS \u2014 Doom-inspired terminal shooter"
+    "description": "just doom"
   },
   {
     "name": "calc",
@@ -33,5 +33,10 @@
     "name": "pip",
     "version": "23.3.1",
     "description": "Python package installer \u2014 installs into FluxFS Python environment"
+  },
+  {
+    "name": "krypt",
+    "version": "1.0.0",
+    "description": "Krypt language \u2014 C++-inspired systems language with classes, templates, lambdas, exceptions"
   }
 ]

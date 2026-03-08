@@ -1,0 +1,37 @@
+[
+  {
+    "name": "doom",
+    "version": "1.0.0",
+    "description": "ASCII raycaster FPS \u2014 Doom-inspired terminal shooter"
+  },
+  {
+    "name": "calc",
+    "version": "1.0.0",
+    "description": "Interactive expression calculator with history"
+  },
+  {
+    "name": "notes",
+    "version": "1.0.0",
+    "description": "Line-based text editor \u2014 saves notes to FluxFS"
+  },
+  {
+    "name": "bench",
+    "version": "1.0.0",
+    "description": "CPU, memory and filesystem benchmark suite"
+  },
+  {
+    "name": "curl",
+    "version": "1.0.0",
+    "description": "Fetch real URLs and optionally save to FluxFS"
+  },
+  {
+    "name": "python",
+    "version": "3.11.0",
+    "description": "Sandboxed Python REPL with FluxFS integration"
+  },
+  {
+    "name": "pip",
+    "version": "23.3.1",
+    "description": "Python package installer \u2014 installs into FluxFS Python environment"
+  }
+]
